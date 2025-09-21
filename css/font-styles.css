@@ -1,0 +1,257 @@
+.header_logo, h1 {
+  font-family: "Forum";
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+.nav_font {
+  font-family: "Roboto";
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 2px;
+}
+.text_1_p {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 2px;
+}
+.text_1_button {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 2px;
+}
+.text_1_slider {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: "Forum";
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 90px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  margin: 0;
+}
+h3 {
+  font-family: "Forum";
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.text_2_p1 {
+  font-family: "Roboto";
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.text_2_p2 {
+  font-family: "Roboto";
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.text_3_p {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 38.5px;
+  letter-spacing: 0px;
+}
+.text_4_p {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 38.5px;
+  letter-spacing: 0px;
+  vertical-align: middle;
+}
+.text_6_h4 {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.text_6_radio, .text_7_p {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.tickets-content-buy-amout-text {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.minus, .plus {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.correct-num {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.total {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 1.65px;
+}
+.text_7_h4 {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 115%;
+  letter-spacing: 0em;
+}
+.subvideo-content-p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 38.5px;
+  letter-spacing: 0em;
+}
+@media (max-width: 1440px) {
+  h2 {
+    font-size: 50px;
+    line-height: 90px;
+    letter-spacing: 5px;
+  }
+  .text_1_p {
+    font-size: 24px;
+  }
+  .text_1_button {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 28px;
+    letter-spacing: 3px;
+  }
+  .text_2_p1 {
+    font-size: 20px;
+  }
+  .text_2_p2 {
+    font-size: 16px;
+  }
+  .subvideo-content-p {
+    font-size: 18px;
+  }
+  .text_7_h4 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.2em;
+  }
+  .text_7_p, .burger-menu {
+    font-size: 20px;
+  }
+}
+@media (max-width: 1280px) {
+  .text_3_p {
+    font-size: 20px;
+    line-height: 35px;
+  }
+}
+@media (max-width: 1023px) {
+  h1 {
+    line-height: 50px;
+  }
+  h2 {
+    font-size: 40px;
+    line-height: 60px;
+  }
+  .text_1_p {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 22px;
+    letter-spacing: 3px;
+  }
+  .text_2_p1 {
+    font-size: 18px;
+  }
+  .text_2_p2 {
+    font-size: 16px;
+  }
+  .text_7_h4 {
+    font-size: 20px;
+  }
+  .text_7_p {
+    font-size: 18px;
+  }
+  .nav_font {
+    font-size: 18px;
+  }
+  .text_f_p {
+    font-size: 22px;
+  }
+}
+@media (max-width: 750px) {
+  h1, .header_logo {
+    font-size: 16px;
+    line-height: 100%;
+  }
+  h2 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  .text_1_p {
+    font-size: 16px;
+  }
+  .text_1_slider {
+    font-size: 16px;
+  }
+  h3 {
+    font-size: 18px;
+    letter-spacing: 5px;
+  }
+  .text_2_p1, .text_2_p2 {
+    font-size: 16px;
+  }
+}
+@media (max-width: 660px) {
+  .text_6_h4, .text_6_radio, .total, .text_7_h4, .text_7_p {
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  .text_1_button, ul.footer-nav, .text_f_p {
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+}
+@font-face {
+  font-family: "Roboto"; 
+  src: url("fonts/Roboto-VariableFont_wdth\,wght.ttf") format("truetype"); 
+}
+@font-face {
+  font-family: "Forum"; 
+  src: url("fonts/Forum-Regular.ttf") format("truetype"); 
+}
