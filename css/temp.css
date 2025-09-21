@@ -1,0 +1,199 @@
+/* Временный цсс до джаваскрипта*/
+.img-5-01 {
+  order: 1;
+}
+.img-5-02 {
+  order: 2;
+}
+.img-5-03 {
+  order: 3;
+}
+.img-5-04 {
+  order: 4;
+}
+.img-5-05 {
+  margin-top: -50px;
+  order: 6;
+}
+.img-5-06 {
+  order: 7;
+}
+.img-5-07 {
+  order: 8;
+}
+.img-5-08 {
+  order: 9;
+}
+.img-5-09 {
+  order: 11;
+}
+.img-5-10 {
+  order: 12;
+}
+.img-5-11 {
+  order: 13;
+}
+.img-5-12 {
+  order: 14;
+}
+.img-5-13 {
+  order: 5;
+}
+.img-5-14 {
+  order: 10;
+}
+.img-5-15 {
+  order: 15;
+}
+@media (max-width: 1480px) {
+  .img-5-01 {
+    order: 2;
+  }
+  .img-5-02 {
+    order: 5;
+  }
+  .img-5-03 {
+    order: 13;
+  }
+  .img-5-04 {
+    order: 14;
+  }
+  .img-5-05 {
+    margin-top: 0px;
+    order: 1;
+  }
+  .img-5-06 {
+    order: 7;
+  }
+  .img-5-07 {
+    order: 12;
+  }
+  .img-5-08 {
+    order: 4;
+  }
+  .img-5-09 {
+    order: 6;
+    margin-top: -50px;
+  }
+  .img-5-10 {
+    order: 10;
+  }
+  .img-5-11 {
+    order: 15;
+  }
+  .img-5-12 {
+    order: 11;
+  }
+  .img-5-13 {
+    order: 3;
+  }
+  .img-5-14 {
+    order: 8;
+  }
+  .img-5-15 {
+    order: 9;
+  }
+}
+@media (max-width: 1023px) {
+  .img-5-01 {
+    order: 4;
+  }
+  .img-5-02 {
+    order: 11;
+    position: relative;
+    z-index: 5;
+  }
+  .img-5-03 {
+    order: 1;
+  }
+  .img-5-04 {
+    order: 12;
+  }
+  .img-5-05 {
+    order: 5;
+  }
+  .img-5-06 {
+    order: 6;
+  }
+  .img-5-07 {
+    order: 7;
+  }
+  .img-5-08 {
+    order: 8;
+  }
+  .img-5-09 {
+    order: 2;
+    margin-top: 0;
+  }
+  .img-5-10 {
+    order: 12;
+  }
+  .img-5-11 {
+    order: 13;
+  }
+  .img-5-12 {
+    order: 10;
+  }
+  .img-5-13 {
+    order: 3;
+  }
+  .img-5-14 {
+    order: 9;
+    margin-top: -50px;
+  }
+  .img-5-15 {
+    order: 14;
+  }
+}
+@media (max-width: 767px) {
+  .img-5-01 {
+    order: 4;
+  }
+  .img-5-02 {
+    order: 9;
+    position: static;
+    margin-top: -50px;
+  }
+  .img-5-03 {
+    order: 12;
+  }
+  .img-5-04 {
+    order: 4;
+  }
+  .img-5-05 {
+    order: 4;
+  }
+  .img-5-06 {
+    order: 4;
+  }
+  .img-5-07 {
+    order: 4;
+  }
+  .img-5-08 {
+    order: 2;
+  }
+  .img-5-09 {
+    order: 1;
+  }
+  .img-5-10 {
+    order: 10;
+  }
+  .img-5-11 {
+    order: 13;
+  }
+  .img-5-12 {
+    order: 11;
+    position: relative;
+    z-index: 5;
+  }
+  .img-5-13 {
+    order: 13;
+  }
+  .img-5-14 {
+    order: 13;
+    margin-top: 0;
+  }
+  .img-5-15 {
+    order: 3;
+  }
+}
